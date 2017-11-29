@@ -78,7 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BinaryTreeSearch.cpp">
+    <ClCompile Include="BinaryTreeSearch.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="BreadthFirstSearch.c">
@@ -105,7 +105,7 @@
     <ClCompile Include="InterSearch.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="MergeSort.cpp">
+    <ClCompile Include="MergeSort.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="QuickSort.c">
